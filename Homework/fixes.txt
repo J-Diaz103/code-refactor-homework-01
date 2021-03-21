@@ -1,0 +1,12 @@
+1. The first issue found was at the header of the page. when the href did not move to the viewport to the correct possition.
+    to fix the issue I added an id to the corresponding div atribute.
+
+2. I changed the title to the name on the web page so the search engine can recognize it when  it is searched for
+
+3. use the header tag to indicate that it is not just another div tag. for organizational puposes.
+
+4a 4b. I changed this div tags to section tags to make it reader friendly and break away from clumpping a ton of div tags 
+        together.
+
+5 a-f. For this I just added the alt names to make sure that if the image doesn't load whoever was tried to see it they would be 
+        able to get an idea of what should be there.
